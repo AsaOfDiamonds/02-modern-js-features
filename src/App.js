@@ -1,5 +1,6 @@
 import React from 'react';
 import NewJSFeatures from "./NewJSFeatures";
+import CounterTest from "./CounterTest";
 
 
 // function App() {
@@ -16,6 +17,7 @@ const App = () => {
   return (
   <div>
     <NewJSFeatures />
+    <CounterTest />
   </div>
   )
 }
